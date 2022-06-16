@@ -1,5 +1,5 @@
 # todo-app
 
-## jasgdgfafgfg     
+## Mi primera aplicacción para Android     
 
-### mas pequeño
+### Sera una aplicación sencilla para aprender el funcionamiento de Android Studio y Visual Studio Code 
